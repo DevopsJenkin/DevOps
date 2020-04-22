@@ -1,0 +1,7 @@
+D:\DevOps\StartDevOps\bin\Debug\StartDevOps.exe.config
+D:\DevOps\StartDevOps\bin\Debug\StartDevOps.exe
+D:\DevOps\StartDevOps\bin\Debug\StartDevOps.pdb
+D:\DevOps\StartDevOps\obj\Debug\StartDevOps.csprojAssemblyReference.cache
+D:\DevOps\StartDevOps\obj\Debug\StartDevOps.csproj.CoreCompileInputs.cache
+D:\DevOps\StartDevOps\obj\Debug\StartDevOps.exe
+D:\DevOps\StartDevOps\obj\Debug\StartDevOps.pdb

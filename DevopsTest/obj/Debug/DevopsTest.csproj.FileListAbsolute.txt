@@ -1,0 +1,17 @@
+D:\DevOps\DevopsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DevOps\DevopsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DevOps\DevopsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DevOps\DevopsTest\bin\Debug\DevopsTest.dll
+D:\DevOps\DevopsTest\bin\Debug\DevopsTest.pdb
+D:\DevOps\DevopsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DevOps\DevopsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DevOps\DevopsTest\bin\Debug\StartDevOps.exe
+D:\DevOps\DevopsTest\bin\Debug\StartDevOps.pdb
+D:\DevOps\DevopsTest\bin\Debug\StartDevOps.exe.config
+D:\DevOps\DevopsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DevOps\DevopsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DevOps\DevopsTest\obj\Debug\DevopsTest.csprojAssemblyReference.cache
+D:\DevOps\DevopsTest\obj\Debug\DevopsTest.csproj.CoreCompileInputs.cache
+D:\DevOps\DevopsTest\obj\Debug\DevopsTest.csproj.CopyComplete
+D:\DevOps\DevopsTest\obj\Debug\DevopsTest.dll
+D:\DevOps\DevopsTest\obj\Debug\DevopsTest.pdb
