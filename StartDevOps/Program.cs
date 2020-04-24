@@ -10,8 +10,15 @@ namespace StartDevOps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(new OddNo().IsOddNo(3).ToString());
-            Console.ReadLine();
+            try
+            {
+                Console.WriteLine(new OddNo().IsOddNo(3).ToString());
+                Console.ReadLine();
+            }
+            catch(Exception ex)
+            {
+                throw;
+            }
         }
     }
     public class OddNo
